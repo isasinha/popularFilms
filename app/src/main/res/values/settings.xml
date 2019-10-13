@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_key">f7b90269edbfc8f2dc5abb0b6585cf1a</string>
+    <string name="web_service_url">https://api.themoviedb.org/3/movie/popular?api_key=%s&amp;language=pt-BR&amp;page=1</string>
+    <string name="invalid_url">Invalid URL</string>
+    <string name="film_image">Poster Image of the Film</string>
+    <string name="film_name">%s</string>
+    <string name="film_description">%s</string>
+    <string name="read_error">Could not read data</string>
+    <string name="connect_error">Could not connect to server</string>
+</resources>
